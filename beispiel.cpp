@@ -2,7 +2,7 @@
 using namespace std;
 
 int main () {
-	count << "Hello World" << endl;
+	count << "Hallo Welt" << endl;
 
 	return 0;
 }
